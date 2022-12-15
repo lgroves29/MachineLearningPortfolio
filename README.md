@@ -7,7 +7,9 @@ The depth of your knowledge in the field
 Your interests beyond machine learning 
 
 
+DECIDE WHO THIS IS AIMED AT!
 
+Insert details from resume.
 Here's the plan:
 
 SVMs, kNN, and Random Forests can all be used in cybersecurity applications such as Intrusion Detection, Spam filtering, and malware detection. I will redo previous labs focusing on each of these algorithms with new datasets relevant to these topics where possible, discussing how they are useful in cyber security.
