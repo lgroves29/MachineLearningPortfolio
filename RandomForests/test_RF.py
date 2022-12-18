@@ -25,7 +25,7 @@ def test_class_mse():
     assert mse == 1
 
 def test_cross_val():
-    dog_full_pd = pd.read_csv("RandomForests/lab16data.csv", sep = ",", index_col = "Breed Name")
+    dog_full_pd = pd.read_csv("lab16data.csv", sep = ",", index_col = "Breed Name")
     dog_full_np = dog_full_pd.to_numpy(dtype = np.float16)
     in_dog_data = dog_full_np[:,:-1]
     out_class = dog_full_np[:,-1]
