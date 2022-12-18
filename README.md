@@ -17,7 +17,7 @@ Program with Data Structures, Theory of Computation, Introduction to Statistics 
 Mathematics Underlying Cryptosystems with Application to Blockchain
 
 #### Port Scanner 
-Python implementation of a port scanning tool for penetration testing and vulnerability analysis (GITHUB)
+Python implementation of a port scanning tool for penetration testing and vulnerability analysis ([GITHUB Repo here](https://github.com/lgroves29/NetSecPortScanner))
 
 
 This portfolio covers some of the work I completed for a Machine Learning course. I have taken several of the ML algorithms covered in the course and applied them to three cyber security tasks: spam filtering, intrusion detection systems, and malware detection. 
