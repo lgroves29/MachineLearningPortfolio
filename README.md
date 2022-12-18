@@ -8,9 +8,7 @@ Your interests beyond machine learning
 
 ### About me
 
-Smith College, Northampton, MA 
-BA in Computer Science and Mathematics Expected January 2023, GPA 3.9 
-Smith College Presidential Scholarship, Bert Mendelson Prize for Excellence in Computer Science 
+I am a recent graduate of Smith College with a BA in Computer Science and Mathematics, interested in the field of cyber security
 
 #### Relevant Coursework
 Program with Data Structures, Theory of Computation, Introduction to Statistics and Data Science, Computer Networks, Network Security, Number Theory, System Defense and Test, Operating Systems, Machine Learning
@@ -22,8 +20,4 @@ Mathematics Underlying Cryptosystems with Application to Blockchain
 Python implementation of a port scanning tool for penetration testing and vulnerability analysis (GITHUB)
 
 
-
-Insert details from resume.
-Here's the plan:
-
-SVMs, kNN, and Random Forests can all be used in cybersecurity applications such as Intrusion Detection, Spam filtering, and malware detection. I will redo previous labs focusing on each of these algorithms with new datasets relevant to these topics where possible, discussing how they are useful in cyber security.
+This portfolio covers some of the work I completed for a Machine Learning course. I have taken several of the ML algorithms covered in the course and applied them to three cyber security tasks: spam filtering, intrusion detection systems, and malware detection. 
