@@ -31,15 +31,8 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-    - name: knn pytest
-      run: |
-        pytest
-      working-directory: kNNSpamDetection
     - name: Random Forests pytest
       run: |
         pytest
       working-directory: RandomForests
-    - name: SVM pytest
-      run: |
-        pytest
-      working-directory: SVM
+ 
