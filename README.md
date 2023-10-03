@@ -1,10 +1,5 @@
 # MachineLearningPortfolio
-<<<<<<< HEAD
 
-
-
-=======
->>>>>>> 9cefb68e28dcb882d5c1a9d290503f2d257324e0
 ### About me
 
 I am a recent graduate of Smith College with a BA in Computer Science and Mathematics, interested in the field of cyber security. 
