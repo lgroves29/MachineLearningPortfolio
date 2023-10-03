@@ -31,5 +31,5 @@ jobs:
     - name: Random Forests pytest
       run: |
         pytest
-      working-directory: randomForestsIDS
+      working-directory: randomForestIDS
  
